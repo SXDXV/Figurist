@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figurist", "Figurist\Figurist.csproj", "{0AA7558E-BE6C-4B8F-9854-674CD0F3966D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figurist.Tests", "Figurist.Tests\Figurist.Tests.csproj", "{C61279AB-9A69-430E-8EE0-CAB82813ECEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA7558E-BE6C-4B8F-9854-674CD0F3966D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA7558E-BE6C-4B8F-9854-674CD0F3966D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA7558E-BE6C-4B8F-9854-674CD0F3966D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA7558E-BE6C-4B8F-9854-674CD0F3966D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61279AB-9A69-430E-8EE0-CAB82813ECEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61279AB-9A69-430E-8EE0-CAB82813ECEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61279AB-9A69-430E-8EE0-CAB82813ECEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61279AB-9A69-430E-8EE0-CAB82813ECEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD1E218-4087-4B79-805E-1ED849CC7150}
+	EndGlobalSection
+EndGlobal
