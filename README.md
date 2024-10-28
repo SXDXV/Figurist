@@ -41,7 +41,8 @@ git clone https://github.com/SXDXV/Figurist.git
 cd Figurist
 ```
 
-2.1 Или возьмите готовый dll в директории ..\Figurist\Figurist\bin\Debug\net8.0\Figurist.dll
+2.1 Или возьмите готовый dll в релизе проекта (Figurist.dll):
+https://github.com/SXDXV/Figurist/releases/tag/v1.0.0
 
 ## Использование
 
