@@ -1,4 +1,4 @@
-[![Header](https://github.com/SXDXV/SXDXV/blob/main/Res/figurist%20promo.jpg)](https://t.me/sxdxvsxdxv)
+[![Header](https://github.com/SXDXV/SXDXV/blob/main/Res/figurist%20promo2.jpg)](https://t.me/sxdxvsxdxv)
 
 # FIGURIST
 
